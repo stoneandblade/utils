@@ -4,7 +4,12 @@
   "description": "Stone and Blade utility functions",
   "main": "lib/index.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine",
+    "publish": "npm version patch && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoneandblade/utils.git"
   },
   "author": "Kalen Gibbons <kalen@stoneandblade.com> (http://stoneandblade.com)",
   "license": "ISC",

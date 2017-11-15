@@ -1,6 +1,6 @@
 {
   "name": "@stoneandblade/utils",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Stone and Blade utility functions",
   "main": "lib/index.js",
   "scripts": {
